@@ -1,1 +1,3 @@
-/src/Skeleton.cpp
+cmake
+cmake-build-debug
+include
